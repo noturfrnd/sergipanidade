@@ -1,3 +1,12 @@
+# Pra que serve o projeto
+
+Esse projeto sera usado para o curso de Residencia de software para gerenciamento de estabelecimentos turisticos no estado de Sergipe
+
+Tecnologias - REACT, HTML, SCSS, n18n se necessário para chatbot
+
+VERSIONAMENTO via GIT controle de versionamento feito pelo lider ou gerenciador eleito
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
